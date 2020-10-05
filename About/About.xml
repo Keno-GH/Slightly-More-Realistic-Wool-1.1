@@ -4,6 +4,7 @@
   <author>Oken, CrunchyDuck</author>
   <supportedVersions>
 	<li>1.1</li>
+	<li>1.2</li>
   </supportedVersions>
   <packageId>Oken.SMRW</packageId>
   <description>Requires wool to be processed at a tailor's bench before it can be used in production. Very immersive.</description>
