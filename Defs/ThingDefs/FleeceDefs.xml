@@ -46,7 +46,7 @@
     </stuffProps>
   </ThingDef>
   
-  <ThingDef ParentName="SMRW_FleeceBase">
+  <!--<ThingDef ParentName="SMRW_FleeceBase">
     <defName>SMRW_camelFleece</defName>
 	<label>camel fleece</label>
     <description>The untreated fleece of a Camel. It must be made in to wool at a Tailor's bench before it can be used.</description>
@@ -56,7 +56,7 @@
     <stuffProps>
       <color>(220,179,132)</color>
     </stuffProps>
-  </ThingDef>
+  </ThingDef>-->
   
   <ThingDef ParentName="SMRW_FleeceBase">
     <defName>SMRW_alpacaFleece</defName>

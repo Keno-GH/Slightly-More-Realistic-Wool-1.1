@@ -444,12 +444,12 @@
 		  <description>The untreated fleece of a Muffalo. It must be made in to wool at a Tailor's loom before it can be used.</description>
 		</value>
 	  </li>
-	  <li Class="PatchOperationReplace">
+	  <!--<li Class="PatchOperationReplace">
 	    <xpath>/Defs/ThingDef[defName="SMRW_camelFleece"]/description</xpath>
 		<value>
 		  <description>The untreated fleece of a Camel. It must be made in to wool at a Tailor's loom before it can be used.</description>
 		</value>
-	  </li>
+	  </li>-->
 	  <li Class="PatchOperationReplace">
 	    <xpath>/Defs/ThingDef[defName="SMRW_alpacaFleece"]/description</xpath>
 		<value>
